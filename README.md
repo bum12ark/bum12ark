@@ -21,9 +21,12 @@
 </p>
 
 <br>
+
 <h3 align="center"> Algorithm </h3>
   <p align="center">
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bum12ark)](https://solved.ac/bum12ark/)
+    <a href="https://solved.ac/bum12ark/">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bum12ark"/>
+    </a>
   </p>
 </h3>
 
